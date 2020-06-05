@@ -1,0 +1,21 @@
+{
+  "name": "shell-doc",
+  "version": "1.0.0",
+  "description": "🚧(WIP)尝试构建一个现代化的在线 Shell 文档站点",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlfsummer/shell-doc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xlfsummer/shell-doc/issues"
+  },
+  "homepage": "https://github.com/xlfsummer/shell-doc#readme"
+}
