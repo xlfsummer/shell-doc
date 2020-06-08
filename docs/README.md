@@ -29,4 +29,5 @@ footer: MIT Licensed | Copyright © 2020-present xlfsummer
 
 # 资源
 
-本站的搭建受到 https://missing.csail.mit.edu/ 的强烈启发
+- (The Missing Semester of Your CS Education)[https://missing.csail.mit.edu/]
+- (Bash Reference Manual)[https://www.gnu.org/software/bash/manual/html_node/]

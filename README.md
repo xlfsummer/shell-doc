@@ -15,4 +15,8 @@
 
 # 资源
 
-本站的搭建受到 https://missing.csail.mit.edu/ 的强烈启发
+- (The Missing Semester of Your CS Education)[https://missing.csail.mit.edu/]
+- (Bash Reference Manual)[https://www.gnu.org/software/bash/manual/html_node/]
+- (Bash 快捷键大全)[https://linux.cn/article-5660-1.html]
+- (Bash 中的特殊字符大全)[https://linux.cn/article-5657-1.html]
+- (Advanced Bash-Scripting Guide)[http://tldp.org/LDP/abs/html/index.html]
